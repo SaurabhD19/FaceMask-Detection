@@ -49,7 +49,7 @@ curl -o facedetector/res10_300x300_ssd_iter_140000.caffemodel https://raw.github
 ln -s facedetector face_detector
 ```
 
-5. Download trained model from [Releases](https://github.com/SaurabhD19/facemask-detection/releases)
+5. Download trained model from [Releases](https://github.com/SaurabhD19/FaceMask-Detection/releases/download/v1.0/maskdetector.keras)
 
 ## 📖 Usage
 
