@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+.venv/
+venv/
+ENV/
+
+# macOS
+.DS_Store
+
+# Model files (upload separately)
+*.keras
+*.h5
+
+# Dataset (too large)
+dataset/
+
+# Temp files
+*.bak
+output.log
